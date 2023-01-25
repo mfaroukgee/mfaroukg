@@ -2,5 +2,5 @@
 
 int main()
 {
-printf("Hellor Erna");
+printf("Hellor Erna\n");
 }
